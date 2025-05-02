@@ -1,5 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea
-.venv
+.idea/
+.venv/
+config.json
+*.log
+*.tmp
+*.bak
+__pycache__/
+.DS_Store
