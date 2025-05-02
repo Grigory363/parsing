@@ -1,0 +1,35 @@
+{
+    "categories": {
+        "Напитки": {
+            "Кофе": "https://www.globus.ru/catalog/chay-kofe-kakao/kofe/",
+            "Чай": "https://www.globus.ru/catalog/chay-kofe-kakao/chay/",
+            "Какао": "https://www.globus.ru/catalog/chay-kofe-kakao/kakao/"
+        },
+        "Сладости": {
+            "Печенье": "https://www.globus.ru/catalog/sladosti/pechene/",
+            "Шоколад": "https://www.globus.ru/catalog/sladosti/shokolad/",
+            "Конфеты": "https://www.globus.ru/catalog/sladosti/konfety/"
+        },
+        "Молочные продукты": {
+            "Сыры": "https://www.globus.ru/catalog/moloko-syr-yaytsa/syr/",
+            "Молоко и сливки": "https://www.globus.ru/catalog/moloko-syr-yaytsa/moloko-i-slivki/"
+        },
+        "Хлебобулочные изделия": {
+            "Хлеб": "https://www.globus.ru/catalog/hleb-vypechka/hleb/"
+        },
+        "Фрукты и овощи": {
+            "Фрукты и ягоды": "https://www.globus.ru/catalog/frukty-i-ovoshchi/frukty-i-yagody/",
+            "Овощи": "https://www.globus.ru/catalog/frukty-i-ovoshchi/ovoshchi/"
+        },
+        "Напитки (безалкогольные)": {
+            "Газировка": "https://www.globus.ru/catalog/voda-soki-napitki/gazirovannye-napitki/",
+            "Соки": "https://www.globus.ru/catalog/voda-soki-napitki/soki/",
+            "Вода": "https://www.globus.ru/catalog/voda-soki-napitki/voda/"
+        },
+        "Мясо, птица и рыба": {
+            "Мясо": "https://www.globus.ru/catalog/myaso-ptitsa-riba/myaso/",
+            "Птица": "https://www.globus.ru/catalog/myaso-ptitsa-riba/ptitsa/",
+            "Рыба": "https://www.globus.ru/catalog/myaso-ptitsa-riba/ryba/"
+        }
+    }
+}
