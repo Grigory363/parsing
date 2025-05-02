@@ -1,8 +1,6 @@
 # Default ignored files
-/shelf/
-/workspace.xml
 .idea/
-.venv/
+venv/
 produst.json
 *.log
 *.tmp
