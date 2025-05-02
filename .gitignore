@@ -3,7 +3,7 @@
 /workspace.xml
 .idea/
 .venv/
-config.json
+produst.json
 *.log
 *.tmp
 *.bak
